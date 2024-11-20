@@ -1,4 +1,5 @@
 import pygame
+import sys
 from player import *
 from constants import *
 from asteroid import Asteroid
